@@ -1,1 +1,1 @@
-# Crystal Energy Prediction eith Invariants
+# Crystal Energy Prediction with Invariants
