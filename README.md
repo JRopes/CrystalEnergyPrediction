@@ -7,3 +7,5 @@ This is the public code repository for my Final Year Project of my Bachelor's de
 - Prefix "DF_T2L_C": The three optimized implementations using the T2L-C variant of the first 8 density functions of crystal structures.
 - Prefix "DF_T2L_CO": The three optimized implementations using the T2L-CO variant of the first 8 density functions of crystal structures.
 - "Preprocessing" Folder: Consists of code that is used for the import and preprocessing of the density functions.
+
+"AMD_T2L_GaussianProcess_Predictor.ipynb" is the implementation with the highest accuracy, proposed by this project.
