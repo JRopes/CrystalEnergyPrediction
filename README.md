@@ -9,3 +9,5 @@ This is the public code repository for my Final Year Project of my Bachelor's de
 - "Preprocessing" Folder: Consists of code that is used for the import and preprocessing of the density functions.
 
 "AMD_T2L_GaussianProcess_Predictor.ipynb" is the implementation with the highest accuracy, proposed by this project.
+
+A paper has been published in the proceedings of DACOMSIN 2021 and can be found [HERE](https://arxiv.org/abs/2108.07233).
