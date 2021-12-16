@@ -1,6 +1,6 @@
 # Crystal Energy Prediction with Invariants
 
-This is the public code repository for my Final Year Project of my Bachelor's degree in Computer Science at the University of Liverpool. The focus of the project is the prediction of crystal energy of crystal structures, based on isometry invariants. The project considered Random Forests, Gaussian processes, and Dense Neural Networks as machine learning methods. The repository consits of the following implementations:
+This is the public code repository for my Final Year Project of my Bachelor's degree in Computer Science at the University of Liverpool (see Disseration_FINAL.pdf). The focus of the project is the prediction of crystal energy of crystal structures, based on isometry invariants. The project considered Random Forests, Gaussian processes, and Dense Neural Networks as machine learning methods. The repository consits of the following implementations:
 
 - Prefix "AMD_T2L": The three optimized implementations using the T2L variant of the Average Minimum Distances of crystal structures.
 - Prefix "AMD_T2L_CON": The three optimized implementations using the T2L-CON variant of the Average Minimum Distances of crystal structures.
